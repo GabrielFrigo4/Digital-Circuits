@@ -24,16 +24,6 @@
       <pos x="160" y="200"/>
     </visualElement>
     <visualElement>
-      <elementName>XOr</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="200" y="160"/>
-    </visualElement>
-    <visualElement>
       <elementName>Out</elementName>
       <elementAttributes>
         <entry>
@@ -41,21 +31,31 @@
           <string>C</string>
         </entry>
       </elementAttributes>
-      <pos x="320" y="180"/>
+      <pos x="300" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>XNOr</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="180" y="160"/>
     </visualElement>
   </visualElements>
   <wires>
     <wire>
       <p1 x="160" y="160"/>
-      <p2 x="200" y="160"/>
+      <p2 x="180" y="160"/>
     </wire>
     <wire>
       <p1 x="280" y="180"/>
-      <p2 x="320" y="180"/>
+      <p2 x="300" y="180"/>
     </wire>
     <wire>
       <p1 x="160" y="200"/>
-      <p2 x="200" y="200"/>
+      <p2 x="180" y="200"/>
     </wire>
   </wires>
   <measurementOrdering/>
