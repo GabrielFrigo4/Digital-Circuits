@@ -30,18 +30,14 @@
           <string>wideShape</string>
           <boolean>true</boolean>
         </entry>
-      </elementAttributes>
-      <pos x="580" y="220"/>
-    </visualElement>
-    <visualElement>
-      <elementName>XOr</elementName>
-      <elementAttributes>
         <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
+          <string>inverterConfig</string>
+          <inverterConfig>
+            <string>In_2</string>
+          </inverterConfig>
         </entry>
       </elementAttributes>
-      <pos x="580" y="120"/>
+      <pos x="580" y="220"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -63,26 +59,36 @@
       </elementAttributes>
       <pos x="720" y="240"/>
     </visualElement>
+    <visualElement>
+      <elementName>XOr</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="580" y="120"/>
+    </visualElement>
   </visualElements>
   <wires>
-    <wire>
-      <p1 x="480" y="160"/>
-      <p2 x="580" y="160"/>
-    </wire>
     <wire>
       <p1 x="660" y="240"/>
       <p2 x="720" y="240"/>
     </wire>
     <wire>
-      <p1 x="540" y="260"/>
-      <p2 x="580" y="260"/>
+      <p1 x="480" y="160"/>
+      <p2 x="580" y="160"/>
+    </wire>
+    <wire>
+      <p1 x="520" y="260"/>
+      <p2 x="560" y="260"/>
     </wire>
     <wire>
       <p1 x="440" y="120"/>
-      <p2 x="540" y="120"/>
+      <p2 x="520" y="120"/>
     </wire>
     <wire>
-      <p1 x="540" y="120"/>
+      <p1 x="520" y="120"/>
       <p2 x="580" y="120"/>
     </wire>
     <wire>
@@ -102,8 +108,8 @@
       <p2 x="480" y="220"/>
     </wire>
     <wire>
-      <p1 x="540" y="120"/>
-      <p2 x="540" y="260"/>
+      <p1 x="520" y="120"/>
+      <p2 x="520" y="260"/>
     </wire>
   </wires>
   <measurementOrdering/>

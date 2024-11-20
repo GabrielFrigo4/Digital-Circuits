@@ -64,12 +64,12 @@
       <pos x="1020" y="-40"/>
     </visualElement>
     <visualElement>
-      <elementName>Half Adder.dig</elementName>
+      <elementName>Half Subtractor.dig</elementName>
       <elementAttributes/>
       <pos x="740" y="-80"/>
     </visualElement>
     <visualElement>
-      <elementName>Half Adder.dig</elementName>
+      <elementName>Half Subtractor.dig</elementName>
       <elementAttributes/>
       <pos x="880" y="-20"/>
     </visualElement>
