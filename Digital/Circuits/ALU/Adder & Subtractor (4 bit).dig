@@ -148,22 +148,22 @@
       <pos x="1000" y="320"/>
     </visualElement>
     <visualElement>
-      <elementName>Full Adder (1 bit).dig</elementName>
+      <elementName>Adder (1 bit).dig</elementName>
       <elementAttributes/>
       <pos x="540" y="440"/>
     </visualElement>
     <visualElement>
-      <elementName>Full Adder (1 bit).dig</elementName>
+      <elementName>Adder (1 bit).dig</elementName>
       <elementAttributes/>
       <pos x="760" y="440"/>
     </visualElement>
     <visualElement>
-      <elementName>Full Adder (1 bit).dig</elementName>
+      <elementName>Adder (1 bit).dig</elementName>
       <elementAttributes/>
       <pos x="980" y="440"/>
     </visualElement>
     <visualElement>
-      <elementName>Full Adder (1 bit).dig</elementName>
+      <elementName>Adder (1 bit).dig</elementName>
       <elementAttributes/>
       <pos x="1200" y="440"/>
     </visualElement>
