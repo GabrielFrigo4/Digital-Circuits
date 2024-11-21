@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <circuit>
   <version>2</version>
-  <attributes/>
+  <attributes>
+    <entry>
+      <string>Label</string>
+      <string>Dec 1b</string>
+    </entry>
+    <entry>
+      <string>romContent</string>
+      <romList>
+        <roms/>
+      </romList>
+    </entry>
+  </attributes>
   <visualElements>
     <visualElement>
       <elementName>In</elementName>
@@ -64,12 +75,12 @@
       <pos x="1020" y="-40"/>
     </visualElement>
     <visualElement>
-      <elementName>Half Adder.dig</elementName>
+      <elementName>Half Subtractor.dig</elementName>
       <elementAttributes/>
       <pos x="740" y="-80"/>
     </visualElement>
     <visualElement>
-      <elementName>Half Adder.dig</elementName>
+      <elementName>Half Subtractor.dig</elementName>
       <elementAttributes/>
       <pos x="880" y="-20"/>
     </visualElement>

@@ -4,7 +4,7 @@
   <attributes>
     <entry>
       <string>Label</string>
-      <string>Add 2b</string>
+      <string>Add 32b</string>
     </entry>
     <entry>
       <string>romContent</string>
@@ -23,7 +23,7 @@
         </entry>
         <entry>
           <string>Bits</string>
-          <int>2</int>
+          <int>32</int>
         </entry>
       </elementAttributes>
       <pos x="240" y="160"/>
@@ -37,7 +37,7 @@
         </entry>
         <entry>
           <string>Bits</string>
-          <int>2</int>
+          <int>32</int>
         </entry>
       </elementAttributes>
       <pos x="240" y="240"/>
@@ -47,11 +47,11 @@
       <elementAttributes>
         <entry>
           <string>Input Splitting</string>
-          <string>2</string>
+          <string>32</string>
         </entry>
         <entry>
           <string>Output Splitting</string>
-          <string>1,1</string>
+          <string>16,16</string>
         </entry>
       </elementAttributes>
       <pos x="280" y="160"/>
@@ -61,11 +61,11 @@
       <elementAttributes>
         <entry>
           <string>Input Splitting</string>
-          <string>2</string>
+          <string>32</string>
         </entry>
         <entry>
           <string>Output Splitting</string>
-          <string>1,1</string>
+          <string>16,16</string>
         </entry>
       </elementAttributes>
       <pos x="280" y="240"/>
@@ -79,7 +79,7 @@
         </entry>
         <entry>
           <string>Bits</string>
-          <int>2</int>
+          <int>32</int>
         </entry>
       </elementAttributes>
       <pos x="800" y="160"/>
@@ -99,11 +99,11 @@
       <elementAttributes>
         <entry>
           <string>Input Splitting</string>
-          <string>1,1</string>
+          <string>16,16</string>
         </entry>
         <entry>
           <string>Output Splitting</string>
-          <string>2</string>
+          <string>32</string>
         </entry>
       </elementAttributes>
       <pos x="740" y="160"/>
@@ -119,12 +119,12 @@
       <pos x="240" y="320"/>
     </visualElement>
     <visualElement>
-      <elementName>Adder (1 bit).dig</elementName>
+      <elementName>Adder (16 bit).dig</elementName>
       <elementAttributes/>
       <pos x="440" y="160"/>
     </visualElement>
     <visualElement>
-      <elementName>Adder (1 bit).dig</elementName>
+      <elementName>Adder (16 bit).dig</elementName>
       <elementAttributes/>
       <pos x="600" y="200"/>
     </visualElement>
